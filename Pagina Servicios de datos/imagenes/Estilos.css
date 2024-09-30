@@ -1,0 +1,9 @@
+hr {
+    margin: 0;                    
+    border: 0;
+    width: 1500px;    
+    height: 40px;                
+    background: #fd7e14;                
+    background-image: linear-gradient(#fd7e14);
+   
+}
