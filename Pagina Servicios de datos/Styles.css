@@ -8,6 +8,7 @@ a{
 }
 
 footer{
+    white-space: pre-line;
     display: flex;
     justify-content: space-between;
     height: 70px;
@@ -21,6 +22,7 @@ footer{
     font-size: 30px;
     font-style: italic;
     text-justify: auto;
+    
     
 
 }
